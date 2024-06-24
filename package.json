@@ -1,6 +1,16 @@
 {
   "name": "fullstack-it",
   "description": "A fullstack framework for building web applications",
+  "bugs": {
+    "url": "https://github.com/samtax01/fullstack-it/issues"
+  },
+  "contributors": [
+    {
+      "name": "Samson Oyetola",
+      "email": "hello@samsonoyetola.com",
+      "url": "https://github.com/samtax01"
+    }
+  ],
   "private": true,
   "version": "0.0.0",
   "type": "module",
