@@ -2,10 +2,10 @@
 
 Stack of technologies for fullstack project
   - Frontend: 
-    - Vite + React, 
+    - Vite + React 
     - Radix-ui + Shadcn + TailwindCSS
   - Backend: 
-    - NodeJS + ExpressJS, 
+    - NodeJS + ExpressJS 
 
 ### Dev run
 ```shell
